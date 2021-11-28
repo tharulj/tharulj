@@ -9,4 +9,3 @@
 - 📫 How to reach me: ... You can reach me in Discord: Atom#3730
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I hate Java.
-

@@ -35,7 +35,9 @@
 <div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  ![Lua_(programming_language)-Logo wine](https://user-images.githubusercontent.com/78299767/147870833-170bf967-2d3d-40f6-ac16-24859282cb1b.png)
+
 </div>
 
 </td><td valign="top" width="33%">

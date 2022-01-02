@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Tharul aka Atom! I am a developer than creates bots, websites etc.</div>  
+### <div align="center">I'm Tharul aka Atom!.</div>  
   
 
 - 🌱 I’m currently learning C, Go, JavaScript and Discord.JS  

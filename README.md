@@ -10,13 +10,6 @@
   
 
 - ❓ Ask me about anything related to computers.  
-  
-
-- ⚡ Fun fact: I hate Java.  
-  
-
-- 👨‍🎓 I know Lua, Ruby, HTML, CSS, Python, PHP and Perling.  
-  
 
 <br/>  
 

@@ -3,13 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Tharul aka Atom!</div>  
+### <div align="center"Meow</div>  
   
 
-- 🌱 I’m currently learning C, Go, JavaScript and Discord.JS  
-  
 
-- ❓ Ask me about anything related to computers.  
 
 <br/>  
 
